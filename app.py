@@ -543,6 +543,6 @@ st.markdown("""
 # ─── Footer ───────────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="footer">
-    <span>DEVANSH MISHRA</span> &nbsp;&#183;&nbsp; DevOps Engineer &nbsp;&#183;&nbsp; 2025
+    <span>DEVANSH MISHRA</span> &nbsp;&#183;&nbsp; DevOps Engineer &nbsp;&#183;&nbsp; 2026
 </div>
 """, unsafe_allow_html=True)
